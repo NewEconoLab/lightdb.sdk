@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lightdb.sdk", "lightdb.sdk\lightdb.sdk.csproj", "{2880BB1C-73E5-4884-BD70-A6AFE32BDF2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lightdb.sdk.test", "lightdb.sdk.test\lightdb.sdk.test.csproj", "{9E536A75-60D7-4D42-9017-B9C5296F12A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2880BB1C-73E5-4884-BD70-A6AFE32BDF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2880BB1C-73E5-4884-BD70-A6AFE32BDF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2880BB1C-73E5-4884-BD70-A6AFE32BDF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2880BB1C-73E5-4884-BD70-A6AFE32BDF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E536A75-60D7-4D42-9017-B9C5296F12A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E536A75-60D7-4D42-9017-B9C5296F12A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E536A75-60D7-4D42-9017-B9C5296F12A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E536A75-60D7-4D42-9017-B9C5296F12A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C6003B3-DD70-4A1B-BC62-5F9093FF33FF}
+	EndGlobalSection
+EndGlobal
